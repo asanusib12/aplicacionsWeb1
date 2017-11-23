@@ -1,0 +1,42 @@
+html {
+  background-color: black;
+    border: 1px solid ;
+}
+
+body {
+    border: 1px solid ;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-indent: inherit;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+#container{
+  background-image: url("index.jpeg");
+  top: 0;
+  left: 20% ;
+  right: 20%;
+  /*margin-left:20%;
+  margin-right: 20%;*/
+  margin-bottom: 0px;
+  height: 100%;
+  width: 60%;
+  position: fixed;
+}
+
+.rojo{background-color: blue;
+  color: red;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  position: fixed;
+  
+}
